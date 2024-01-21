@@ -4,6 +4,8 @@
 
 This project aims to transform the experience of interacting with long documents by converting them into a more engaging chat-based interface. Utilizing the power of retrieval-augmented generation with Langchain, users can interact with long documents in a conversational manner, making the reading process more dynamic and interesting.
 
+**Use-cases**: Interactive documentation alone will not build trust. What builds trust is showing the user the source within the document from where the answer has been generated (similar to how Google shows references/citations to enhance trust). Interfaces like these can make a world of difference in cases where trust is in deficit. I have explained the example of how loan documentation/terms and conditions can be made interactive to improve trust in the loan disbursal process for the customer. The Medium link is here: [Making Dreaded T&Cs Easy with LLMS](https://medium.com/@shubham13596/making-dreaded-tncs-easy-with-llms-fd2e35d7fe92).
+
 ## How It Works
 
 The system operates through the following steps:
